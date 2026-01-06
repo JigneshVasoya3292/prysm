@@ -503,3 +503,7 @@ func (s *SignedBlindedBeaconBlockFulu) MessageRawJson() ([]byte, error) {
 func (s *SignedBlindedBeaconBlockFulu) SigString() string {
 	return s.Signature
 }
+
+
+
+
